@@ -1,0 +1,17 @@
+{
+    "name": "숲의 간청",
+    "icon": "roots:spell_dust",
+    "category": "spells",
+    "advancement": "roots:root",
+    "priority": true,
+    "pages": [
+      {
+        "type": "text",
+        "text": "박혀 있는 그로브 스톤 근처에 있는 요정의 영혼에게 다가오라고 간청합니다. 활성화 후에는 돌 자체가 눈에 띄게 에너지를 끌어 당깁니다.$(br2)시간이 지나면서 활성화 된 스톤을 중심으로 세상을 변화시키기 시작할 것 입니다."
+      },
+      {
+        "type": "spell_template",
+        "spell": "spell_supplication"
+      }
+    ]
+  }

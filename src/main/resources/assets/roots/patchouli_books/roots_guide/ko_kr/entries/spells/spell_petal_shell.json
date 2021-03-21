@@ -1,0 +1,17 @@
+{
+  "name": "꽃잎 방패",
+  "icon": "roots:spell_dust",
+  "category": "spells",
+  "advancement": "roots:spirit_herb",
+  "flag": "roots:spell_petal_shell",
+  "pages": [
+    {
+      "type": "text",
+      "text": "이 주문을 시전하면 주위에 보호 꽃잎 세 개를 소환합니다. 이 꽃잎들은 각 각 소멸하기 전에 한 번의 타격을 흡수하거나 시간이 지남에 따라 소멸합니다.$(br2)$(info) 주문을 재시전하면 꽃잎 수가 최대 3개로 새로 생성됩니다."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_petal_shell"
+    }
+  ]
+}

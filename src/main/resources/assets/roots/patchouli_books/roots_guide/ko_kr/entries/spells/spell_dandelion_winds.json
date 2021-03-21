@@ -1,0 +1,17 @@
+{
+  "name": "민들레 바람",
+  "icon": "roots:spell_dust",
+  "category": "spells",
+  "advancement": "roots:cloud_berry",
+  "flag": "roots:spell_dandelion_winds",
+  "pages": [
+    {
+      "type": "text",
+      "text": "거대한 돌풍을 불러옵니다. 앞에 있는 모든 생명체를 밀치고 하늘 높이 띄울 수 있을 만큼 강합니다.$(br2)$(info) 생명체를 멀리 던지면 낙하 피해를 줍니다."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_dandelion_winds"
+    }
+  ]
+}

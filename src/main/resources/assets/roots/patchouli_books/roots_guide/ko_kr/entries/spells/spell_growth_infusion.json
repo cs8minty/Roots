@@ -1,0 +1,17 @@
+{
+  "name": "성장 주입",
+  "icon": "roots:spell_dust",
+  "category": "spells",
+  "advancement": "roots:terra_moss",
+  "flag": "roots:spell_growth_infusion",
+  "pages": [
+    {
+      "type": "text",
+      "text": "상대적으로 저렴하게 목표한 작물에 천연 에너지를 주입하여 성장을 가속화하는 채널 마법입니다.$(br2)$(warning) 주문은 하루의 시간을 알지 못한다는 것을 알지 못하며, 식물이 자는 동안 계속해서 식물에 주입될 수 있다는 점에 유의하십시오."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_growth_infusion"
+    }
+  ]
+}

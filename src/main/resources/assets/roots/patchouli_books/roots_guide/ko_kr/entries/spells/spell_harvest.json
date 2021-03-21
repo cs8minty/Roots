@@ -1,0 +1,17 @@
+{
+    "name": "수확",
+    "icon": "roots:spell_dust",
+    "category": "spells",
+    "advancement": "roots:spirit_herb",
+    "flag": "roots:spell_harvest",
+    "pages": [
+      {
+        "type": "text",
+        "text": "시전자 주위의 작물을 즉시 수확하고 다시 심어 정원이나 밭을 관리하는 작업을 크게 간소화합니다.$(br2)작물은 자란 곳에 떨어지며, (다른 방법을 사용할 수 없는 경우) 수동으로 수집해야 합니다."
+      },
+      {
+        "type": "spell_template",
+        "spell": "spell_harvest"
+      }
+    ]
+  }

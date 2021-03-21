@@ -1,0 +1,17 @@
+{
+  "name": "위험 감지",
+  "icon": "roots:spell_dust",
+  "category": "spells",
+  "advancement": "roots:staff",
+  "flag": "roots:spell_sense_danger",
+  "pages": [
+    {
+      "type": "text",
+      "text": "괴생물의 사악한 아우라와 의도를 드러내어 주변의 모든 것이 밝게 빛나게 한다.$(br2)$(info) 빛나는 생명체는 모든 고체 물체를 통해 볼 수 있다."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_sense_danger"
+    }
+  ]
+}

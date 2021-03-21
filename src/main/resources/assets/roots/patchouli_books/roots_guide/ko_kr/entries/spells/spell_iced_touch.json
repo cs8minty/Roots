@@ -1,0 +1,21 @@
+{
+  "name": "차가운 손길",
+  "icon": "roots:spell_dust",
+  "category": "spells",
+  "advancement": "roots:dewgonia",
+  "flag": "roots:spell_iced_touch",
+  "pages": [
+    {
+      "type": "text",
+      "text": "이것은 물에 젖지 않고 물의 효과를 응용하기 위한 간단한 주문입니다! 불을 끄는데 사용할 수 있고, 용암을 흑요석으로 만드는데 사용될 수도 있습니다."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_iced_touch"
+		},
+		{
+      "type": "spell_modifiers_template",
+      "spell": "spell_iced_touch"
+    }
+  ]
+}

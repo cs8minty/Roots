@@ -1,0 +1,17 @@
+{
+    "name": "생명 흡수",
+    "icon": "roots:spell_dust",
+    "category": "spells",
+    "advancement": "roots:baffle_cap",
+    "flag": "roots:spell_life_drain",
+    "pages": [
+      {
+        "type": "text",
+        "text": "다른 생명체의 생명의 정수를 빼내어 당신을 치유합니다. 치유되는 양이 피해를 입히는 양보다 훨씬 적습니다.$(br2)$(warning) 주문을 사용할 때마다 대상의 영혼이 시들어 더 큰 피해를 입을 수 있습니다. (치료되지 않음)"
+      },
+      {
+        "type": "spell_template",
+        "spell": "spell_life_drain"
+      }
+    ]
+  }

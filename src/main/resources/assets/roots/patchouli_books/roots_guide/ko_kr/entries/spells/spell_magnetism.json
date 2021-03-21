@@ -1,0 +1,17 @@
+{
+  "name": "자기력",
+  "icon": "roots:spell_dust",
+  "category": "spells",
+  "advancement": "roots:staff",
+  "flag": "roots:spell_magnetism",
+  "pages": [
+    {
+      "type": "text",
+      "text": "철은 자기력을 가진 것으로 알려져 있지만, 그것을 레드스톤과 와일트루트를 결합하면 아이템 회수의 개념에 더 마법적인 접근을 할 수 있다.$(br2)시전자 쪽으로 아이템을 끌어 당기는 대신, 즉시 시전자 발 앞으로 텔레포트 시킵니다.$(br2)$(info) 이 주문과 함께 경험의 구슬도 수집할 수 있습니다."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_magnetism"
+    }
+  ]
+}

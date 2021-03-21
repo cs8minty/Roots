@@ -1,0 +1,6 @@
+{
+  "name": "의식",
+  "sortnum" : 3,
+  "description": "의식은 $(l:basics/pyre)장작$()을 사용하여 행하며 일반적으로 완료되기까지 시간이 걸립니다. 대부분은 휴대가 가능하지만 일부는 $(l:rituals/standing_stones)스탠딩 스톤이나 나무를 필요$()로 한다. $(info) $(l:rituals/automation)거의 모든 의식을 자동화하는 것이 가능하다$().",
+  "icon": "roots:bonfire"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "시간 정지",
+  "icon": "roots:spell_dust",
+  "category": "spells",
+  "advancement": "roots:moonglow_leaf",
+  "flag": "roots:spell_time_stop",
+  "pages": [
+    {
+      "type": "text",
+      "text": "시전자를 제외한 주변의 모든 생명체의 시간 진행을 일시적으로 중단합니다."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_time_stop"
+    }
+  ]
+}

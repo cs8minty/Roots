@@ -1,0 +1,6 @@
+{
+  "name": "주문 제작법",
+  "sortnum" : 2,
+  "description": "주문은 세상의 변화에 영향을 주기 위해 적은 양의 약초를 시약으로 사용하여 스태프를 통해 마법을 전달하는 한 방법이다.$(br2)$(warning) 주문을 시전하려면 특별한 $(apparatus/component_pouch)파우치$()에 구성요소를 보관해야 합니다.",
+  "icon": "roots:staff"
+}

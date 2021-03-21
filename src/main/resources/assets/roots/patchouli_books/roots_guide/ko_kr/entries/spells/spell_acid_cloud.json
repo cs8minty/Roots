@@ -1,0 +1,21 @@
+{
+  "name": "산성 구름",
+  "icon": "roots:spell_dust",
+  "category": "spells",
+  "advancement": "roots:baffle_cap",
+  "flag": "roots:spell_acid_cloud",
+  "pages": [
+    {
+      "type": "text",
+      "text": "시전자 주위에 연소 가스 고리를 형성합니다. 이 고리는 시전자가 시전을 중단할 때까지 유지됩니다. 시전자가 독성 링을 유지하는 동안 시전자에 접근하는 모든 생물은 유독 가스에 의해 손상되고 피해를 입습니다.$(br2)$(info) 시전자가 움직일 때 속도가 느려지지만, 자신의 마법으로 인해 피해를 입지 않습니다."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_acid_cloud"
+    },
+    {
+      "type": "spell_modifiers_template",
+      "spell": "spell_acid_cloud"
+    }
+  ]
+}

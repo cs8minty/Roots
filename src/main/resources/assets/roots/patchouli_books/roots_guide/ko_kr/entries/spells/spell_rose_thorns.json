@@ -1,0 +1,17 @@
+{
+  "name": "장미 가시",
+  "icon": "roots:spell_dust",
+  "category": "spells",
+  "advancement": "roots:staff",
+  "flag": "roots:spell_rose_thorns",
+  "pages": [
+    {
+      "type": "text",
+      "text": "캐스터의 위치에서 피해를 주는 장미 가시의 정수가 앞으로 던져집니다.$(br2)가시가 블록에 닿으면 덫을 만들어 크게 피해를 입힌 다음 $(warning)서서히 독살해 죽입니다."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_rose_thorns"
+    }
+  ]
+}

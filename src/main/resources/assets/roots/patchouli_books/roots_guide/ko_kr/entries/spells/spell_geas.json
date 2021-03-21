@@ -1,0 +1,17 @@
+{
+  "name": "지아스",
+  "icon": "roots:spell_dust",
+  "category": "spells",
+  "advancement": "roots:wildewheet",
+  "flag": "roots:spell_geas",
+  "pages": [
+    {
+      "type": "text",
+      "text": "대상 생명체를 지아스 아래 위치시켜 시전자를 짧은 시간 동안 공격하지 못하게 합니다."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_geas"
+    }
+  ]
+}

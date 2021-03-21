@@ -1,0 +1,17 @@
+{
+    "name": "공기 폭발",
+    "icon": "roots:spell_dust",
+    "category": "spells",
+    "advancement": "roots:cloud_berry",
+    "flag": "roots:spell_sky_soarer",
+    "pages": [
+      {
+        "type": "text",
+        "text": "공기의 폭발은 당신이 보고 있는 방향, 위, 아래 또는 어떤 방향으로든 당신을 끌어당깁니다.$(br2)$(warning) 너무 멀리 날아오르면 추락으로 인한 피해를 입을 가능성이 큽니다.$(br2)$(info) 다른 생명체나 운송수단을 타는 동안 사용할 경우 양쪽 모두 영향을 받습니다!"
+      },
+      {
+        "type": "spell_template",
+        "spell": "spell_sky_soarer"
+      }
+    ]
+  }

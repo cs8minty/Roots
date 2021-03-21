@@ -1,0 +1,17 @@
+{
+  "name": "산산조각",
+  "icon": "roots:spell_dust",
+  "category": "spells",
+  "advancement": "roots:stalicripe",
+  "flag": "roots:spell_shatter",
+  "pages": [
+    {
+      "type": "text",
+      "text": "혼돈의 힘의 폭발은 플레이어의 얼굴, 산산조각나는 돌, 흑요석, 광석 등에 따라 1x2 패턴으로 대상과 인접한 블록 중 하나에 부딪힙니다.$(br2)$(info) 아이템 자체는 파괴되지 않지만, 원래 블록 아래의 지면에 떨어집니다."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_shatter"
+    }
+  ]
+}

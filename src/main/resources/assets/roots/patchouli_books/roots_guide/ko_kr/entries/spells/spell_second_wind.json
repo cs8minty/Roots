@@ -1,0 +1,17 @@
+{
+  "name": "두번째 바람",
+  "icon": "roots:spell_dust",
+  "category": "spells",
+  "advancement": "roots:dewgonia",
+  "flag": "roots:spell_second_wind",
+  "pages": [
+    {
+      "type": "text",
+      "text": "수중생물의 형태를 취할 수 없다면 바다를 탐험하는 것은 거의 불가능 합니다.$(br2)이 주문은 수중 모험에 큰 도움을 줍니다. 물 속에 있는 동안에도 $(info) 시전자의 호흡을 가득 채워줄 것입니다."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_second_wind"
+    }
+  ]
+}

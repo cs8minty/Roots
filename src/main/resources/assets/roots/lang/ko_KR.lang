@@ -1,0 +1,397 @@
+itemGroup.roots=Roots
+
+entity.Villager.druid=드루이드
+entity.entity_fairy.name=요정
+
+item.assorted_seeds.name=혼합 씨앗
+item.cooked_seeds.name=구운 씨앗
+item.pestle.name=막자
+item.spell_dust.name=주문 가루
+item.staff.name=스태프
+item.straw.name=Straw
+item.flour.name=Flour
+item.firestarter.name=파이어스타터
+item.living_pickaxe.name=Living Pickaxe
+item.living_axe.name=Living Axe
+item.living_shovel.name=Living Shovel
+item.living_hoe.name=Living Hoe
+item.living_sword.name=Living Sword
+item.living_arrow.name=Living Arrow
+item.wildwood_quiver.name=와일드우드 화살통
+item.wildwood_bow.name=와일드우드 활
+item.aer_ash.name=Aer Ash
+item.terra_ash.name=Terra Ash
+item.runic_shears.name=Runic Shears
+item.sylvan_helmet.name=숲의 헬멧
+item.sylvan_chestplate.name=숲의 갑옷
+item.sylvan_leggings.name=숲의 각반
+item.sylvan_boots.name=숲의 부츠
+item.wildwood_helmet.name=와일드우드 헬멧
+item.wildwood_chestplate.name=와일드우드 갑옷
+item.wildwood_leggings.name=와일드우드 각반
+item.wildwood_boots.name=와일드우드 부츠
+item.component_pouch.name=컴포넌트 파우치
+item.creative_pouch.name=크리에이티브 컴포넌트 파우치
+item.apothecary_pouch.name=약제 파우치
+item.wildwood_door.name=와일드우드 문
+item.fairy_dust.name=요정 가루
+
+tile.mortar.name=막자사발
+tile.imbuer.name=Imbuer
+tile.thatch.name=Thatch
+tile.bonfire.name=Pyre
+tile.reinforced_bonfire.name=Reinforced Pyre
+tile.runed_obsidian.name=룬이 새겨진 흑요석
+tile.runed_obsidian_brick.name=룬이 새겨진 흑요석 벽돌
+tile.runed_obsidian_brick_alt.name=룬이 새겨진 흑요석 벽돌
+tile.chiseled_runed_obsidian.name=조각된 룬이 새겨진 흑요석
+tile.runestone.name=룬스톤
+tile.runestone_brick.name=룬스톤 벽돌
+tile.runestone_brick_alt.name=룬스톤 벽돌
+tile.runestone_trample.name=Sure-Footed Stone
+tile.chiseled_runestone.name=조각된 룬스톤
+tile.fairy_dust.name=요정 가루
+tile.offertory_plate.name=Offering Plate
+tile.offertory_bowl.name=Offering Bowl
+tile.unending_bowl.name=Unending Bowl
+tile.structure_marker.name=Structure Marker
+tile.incense_burner.name=Incense Burner
+tile.wildwood_rune.name=와일드루트 룬
+tile.wildwood_stairs.name=와일드우드 계단
+tile.wildwood_trapdoor.name=와일드우드 다락문
+tile.wildwood_button.name=와일드우드 버튼
+tile.wildwood_pressure_plate.name=와일드우드 압력판
+tile.wildwood_fence.name=와일드우드 울타리
+tile.wildwood_fence_gate.name=와일드우드 울타리 문
+tile.wildwood_slab.name=와일드우드 반블록
+tile.wildwood_wall.name=와일드우드 담장
+tile.runestone_button.name=룬스톤 버튼
+tile.runestone_brick_button.name=룬스톤 벽돌 버튼
+tile.runestone_brick_alt_button.name=룬스톤 벽돌 버튼
+tile.runestone_pressure_plate.name=룬스톤 압력판
+tile.runestone_brick_pressure_plate.name=룬스톤 벽돌 압력판
+tile.runestone_brick_alt_pressure_plate.name=룬스톤 벽돌 압력판
+tile.wildwood_sapling.name=와일드우드 묘목
+tile.wildwood_ladder.name=와일드우드 사다리
+tile.grove_stone.name=그로브 스톤
+tile.fairy_grove_stone.name=요정의 그로브 스톤
+tile.fungi_grove_stone.name=Fungal Grove Stone
+tile.natural_grove_stone.name=자연의 그로브 스톤
+tile.wild_grove_stone.name=야생의 그로브 스톤
+tile.twilight_grove_stone.name=황혼의 그로브 스톤
+tile.elemental_grove_stone.name=엘레멘탈 그로브 스톤
+tile.fey_crafter.name=페이 크래프터
+tile.fey_light.name=페이 라이트
+tile.fairy_house_brown.name=요정의 집
+tile.fairy_house_red.name=요정의 집
+tile.fairy_house_baffle.name=요정의 집
+
+roots.tooltip.petaldust.notag=이 주문 가루에 NBT 데이터가 없습니다! 오류가 발생할 수 있으므로 사용해서는 안됩니다!
+roots.tooltip.staff.notag=이 스태프에 NBT 데이터가 없습니다! 오류가 발생할 수 있으므로 사용해서는 안됩니다!
+roots.tooltip.staff.selected=선택한 슬롯: 
+roots.tooltip.pouch_divider=: x
+roots.tooltip.trap_paper_health=체력: 
+roots.tooltip.trap_paper_health_divider= /
+roots.tooltip.pouch=Sneak-Right-Click or %s to open pouch.
+roots.tooltip.pouch2=Right-Click or %s to open pouch.
+roots.tooltip.refill=Automatically refilling herbs to full stacks from picked-up items. [Disable in config]
+roots.tooltip.creative_pouch1=크리에이티브 모드 전용.
+roots.tooltip.creative_pouch2=모든 약초를 무제한 포함합니다.
+
+roots.info.staff.slot_and_spell=선택한 슬롯 (%d)의 주문: %s
+roots.info.staff.no_slots=스태프에 새로운 주문을 넣을 공간이 없습니다!
+roots.info.staff.empty_slot=해당 스태프의 슬롯은 이미 비어 있습니다.
+roots.info.pouch.no_herbs=You don't have enough %s in your component pouch!
+roots.info.pouch.no_pouch=You need a component pouch with your herbs stored inside to cast spells!
+roots.info.pyre.repeat1=Sneak-Right-Click
+roots.info.pyre.repeat2=with empty hand
+roots.info.pyre.repeat3=to repeat ritual.
+roots.info.pyre.repeat4=to repeat craft.
+
+roots.spell.module.module_fire.name=Fire
+roots.spell.module.module_touch.name=Touch
+roots.spell.module.description=주문 모듈:
+roots.spell.spell_wild_fire.name=들불
+roots.spell.spell_dandelion_winds.name=민들레 바람
+roots.spell.spell_sanctuary.name=성역
+roots.spell.spell_life_drain.name=생명 흡수
+roots.spell.spell_radiance.name=광선
+roots.spell.spell_shatter.name=산산조각
+roots.spell.spell_gravity_boost.name=그레비티 부스트
+roots.spell.spell_light_drifter.name=라이트 드리프터
+roots.spell.spell_time_stop.name=시간 정지
+roots.spell.spell_petal_shell.name=꽃잎 방패
+roots.spell.spell_rose_thorns.name=장미 가시
+roots.spell.spell_acid_cloud.name=산성 구름
+roots.spell.spell_acid_cloud.module_fire.description=Sets targets on fire.
+roots.spell.spell_geas.name=지어즈
+roots.spell.spell_growth_infusion.name=성장 주입
+roots.spell.spell_sense_animals.name=동물 감지
+roots.spell.spell_terra_transmutation.name=대지 변환
+roots.spell.spell_sky_soarer.name=공기 폭발
+roots.spell.spell_second_wind.name=두번째 바람
+roots.spell.spell_magnetism.name=자기력
+roots.spell.spell_sense_danger.name=위험 감지
+roots.spell.spell_harvest.name=수확
+roots.spell.spell_rampant_growth.name=만연하는 성장
+roots.spell.spell_supplication.name=숲의 간청
+roots.spell.spell_fey_light.name=페이 라이트
+roots.spell.spell_iced_touch.name=차가운 손길
+roots.spell.spell_iced_touch.module_touch.description=Surrounds you with freezing clouds
+roots.spell.spell_fairy_supplication.name=Fairy Supplication
+
+roots.ritual.ritual_healing_aura.name=치유의 기운
+roots.ritual.ritual_heavy_storms.name=우레 폭풍
+roots.ritual.ritual_divine_protection.name=신성한 보호
+roots.ritual.ritual_fire_storm.name=불의 폭풍
+roots.ritual.ritual_spreading_forest.name=스프레딩 포레스트
+roots.ritual.ritual_windwall.name=윈드월
+roots.ritual.ritual_warding_protection.name=보호막
+roots.ritual.ritual_germination.name=발아
+roots.ritual.ritual_purity.name=정화
+roots.ritual.ritual_frost_lands.name=얼어붙은 대지
+roots.ritual.ritual_animal_harvest.name=동물 수확
+roots.ritual.ritual_summon_creatures.name=생물 소환
+roots.ritual.ritual_wild_growth.name=와일드루트 성장
+roots.ritual.ritual_overgrowth.name=과성장
+roots.ritual.ritual_flower_growth.name=꽃 성장
+roots.ritual.ritual_transmutation.name=변환
+roots.ritual.ritual_gathering.name=수집
+
+roots.ritual.condition.items=의식을 시작하는데 실패했습니다: 잘못된 아이템
+roots.ritual.condition.standing_stones=의식을 시작하는데 실패했습니다: 필요 %s
+roots.ritual.condition.standing_stones.types=%d of %d-high stones
+roots.ritual.condition.trees=의식을 시작하는데 실패했습니다. 잘못된 나무: 필요 %s
+roots.ritual.condition.trees.types=%d of %s
+roots.ritual.condition.invalid=의식을 시작하는데 실패했습니다: 알 수 없는 이유
+
+roots.keybinds.group=Roots
+roots.keybinds.pouch=파우치 열기
+roots.keybinds.quiver=화살통 열기
+roots.keybinds.pickup_arrow=화살 줍기
+roots.keybinds.spell_slot_1=슬롯 1 선택
+roots.keybinds.spell_slot_2=슬롯 2 선택
+roots.keybinds.spell_slot_3=슬롯 3 선택
+roots.keybinds.spell_slot_4=슬롯 4 선택
+roots.keybinds.spell_slot_5=슬롯 5 선택
+roots.keybinds.spell_slot_next=다음 슬롯 선택
+roots.keybinds.spell_slot_previous=이전 슬롯 선택
+
+item.ritual_healing_aura.name=의식: Healing Aura
+item.ritual_heavy_storms.name=의식: Heavy Storms
+item.ritual_divine_protection.name=의식: Divine Protection
+item.ritual_fire_storm.name=의식: Storm of Fire
+item.ritual_spreading_forest.name=의식: Spreading Forest
+item.ritual_windwall.name=의식: Windwall
+item.ritual_warding_protection.name=의식: Warding Protection
+item.ritual_germination.name=의식: Germination
+item.ritual_purity.name=의식: Purify
+item.ritual_frost_lands.name=의식: Frost Lands
+item.ritual_animal_harvest.name=의식: Animal Harvest
+item.ritual_summon_creatures.name=의식: Summon Creatures
+item.ritual_wild_growth.name=의식: Wildroot Growth
+item.ritual_overgrowth.name=의식: Overgrowth
+item.ritual_flower_growth.name=의식: Flower Growth
+item.ritual_transmutation.name=의식: Transmutation
+item.ritual_gathering.name=의식: Gathering
+item.grove_fairy_icon.name=페어리 그로브
+item.grove_fairy_text.name=페어리 그로브
+item.fey_fire.name=Fey Fire
+
+#Knifes
+item.wood_knife.name=나무 칼
+item.stone_knife.name=돌 칼
+item.iron_knife.name=철 칼
+item.gold_knife.name=금 칼
+item.diamond_knife.name=다이아몬드 칼
+
+# Advancements
+advancement.roots.root=Roots 3
+advancement.roots.root.desc=Embrace the power of nature!
+advancement.roots.wildroot=The Root of Magic
+advancement.roots.wildroot.desc=Find wildroot amongst broken grass.
+advancement.roots.guide=Epi-Tome of Druidry
+advancement.roots.guide.desc=Combine a book with wildroot for an essential guide.
+advancement.roots.terra_moss=Overgrown Nature
+advancement.roots.terra_moss.desc=Scrape the magical growth off mossy cobblestone.
+advancement.roots.staff=Staffed
+advancement.roots.staff.desc=Become equipped for magic.
+advancement.roots.pyre=Bonfire of the Vanities
+advancement.roots.pyre.desc=Build a Pyre for magical rituals and crafting!
+advancement.roots.fey_crafter=Groves 101
+advancement.roots.fey_crafter.desc=Build a Fey Crafter to draw on a Grove Stone's power.
+advancement.roots.grove_stone=I'm Still Standing
+advancement.roots.grove_stone.desc=Supplicate the fey with a spell to activate Grove Stone.
+advancement.roots.pereskia=Fey Petals
+advancement.roots.pereskia.desc=Craft Peresekia within the heat of a Pyre.
+advancement.roots.runic_shears=Shearing Across Realms
+advancement.roots.runic_shears.desc=Craft Runic Shears to pluck magical equivalents from the fey world!
+advancement.roots.moonglow_leaf=A Touch of Moonlight
+advancement.roots.moonglow_leaf.desc=Craft Moonglow within the heat of a Pyre.
+advancement.roots.spirit_herb=A Spiritu'l Blessing
+advancement.roots.spirit_herb.desc=Use Runic Shears to find the Fey's Spirit Herb
+advancement.roots.wildewheet=Where the Wildewheet are
+advancement.roots.wildewheet.desc=Use Runic Shears to find the Fey's Wildewheet
+advancement.roots.cloud_berry=Happy Little Clouds
+advancement.roots.cloud_berry.desc=Craft Cloudberry within the heat of a Pyre.
+advancement.roots.infernal_bulb=Too Hot for Plants
+advancement.roots.infernal_bulb.desc=Craft Infernal Bulb within the heat of a Pyre.
+advancement.roots.stalicripe=Sons of Stone
+advancement.roots.stalicripe.desc=Craft Stalicripe within the heat of a Pyre.
+advancement.roots.dewgonia=Sea-Cow's Delight
+advancement.roots.dewgonia.desc=Craft Dewgonia within the heat of a Pyre.
+advancement.roots.baffle_cap=Ferocious Fungus
+advancement.roots.baffle_cap.desc=Craft Baffle Cap within the heat of a Pyre.
+advancement.roots.runestone=The Language of Trees
+advancement.roots.runestone.desc=Forge Runestone with the power of the Fey.
+advancement.roots.living=The Hills Are Alive
+advancement.roots.living.desc=Obtain a complete set of Living Tools.
+advancement.roots.pacifist=Untrue Pacifist
+advancement.roots.pacifist.desc=You murdered an innocent creature. Congratulations!
+advancement.roots.sylvan_armor=Botanical Robes
+advancement.roots.sylvan_armor.desc=Obtain a complete set of Sylan Robes.
+advancement.roots.wildwood_armor=Natural Resistance
+advancement.roots.wildwood_armor.desc=Obtain a complete set of Wildwood Armor.
+advancement.roots.apothecary_pouch=House of Herbs
+advancement.roots.apothecary_pouch.desc=Craft an Apothecary Pouch to improve your storage.
+advancement.roots.wildwood=Wild, Wild Wood!
+advancement.roots.wildwood.desc=Acquire Wildwood in any form through the Ritual of Wild Growth.
+
+# Herbs
+item.moonglow_seed.name=문글로우 씨앗
+item.moonglow_leaf.name=문글로우 잎
+item.pereskia_bulb.name=페레스키아 구근
+item.pereskia.name=페레스키아
+item.terra_spores.name=테라 스포어
+item.terra_moss.name=테라 모스
+item.spirit_herb_seed.name=스피릿 허브 씨앗
+item.spirit_herb.name=스피릿 허브
+item.wildroot.name=와일드루트
+item.wildewheet.name=와일드위트
+item.wildewheet_seed.name=와일드위트 씨앗
+item.infernal_bulb.name=인페르날 구근
+item.dewgonia.name=듀고니아
+item.stalicripe.name=스탈릭라입
+item.cloud_berry.name=클라우드 베리
+item.baffle_cap.name=배플 캡
+tile.baffle_cap.name=배플 캡
+tile.baffle_cap_mushroom.name=배플 캡
+tile.baffle_cap_huge_stem.name=거대한 배플 캡 줄기
+tile.baffle_cap_huge_top.name=거대한 배플 캡
+
+# Bark
+item.bark_oak.name=참나무 껍질
+item.bark_spruce.name=가문비나무 껍질
+item.bark_birch.name=자작나무 껍질
+item.bark_jungle.name=정글나무 껍질
+item.bark_acacia.name=아카시아나무 껍질
+item.bark_dark_oak.name=짙은 참나무 껍질
+item.bark_wildwood.name=와일드우드 껍질
+
+# Runic Soil
+tile.elemental_soil.name=Elemental Soil
+tile.elemental_soil_fire.name=Magmatic Soil
+tile.elemental_soil_water.name=Aqueous Soil
+tile.elemental_soil_earth.name=Terran Soil
+tile.elemental_soil_air.name=Caelic Soil
+
+# Rune Stone
+tile.runestone_stairs.name=룬스톤 계단
+tile.runestone_slab.name=룬스톤 반블록
+tile.runestone_wall.name=룬스톤 담장
+tile.runestone_brick_stairs.name=룬스톤 벽돌 계단
+tile.runestone_brick_slab.name=룬스톤 벽돌 반블록
+tile.runestone_brick_wall.name=룬스톤 벽돌 담장
+
+tile.runestone_brick_alt_stairs.name=룬스톤 벽돌 계단
+tile.runestone_brick_alt_slab.name=룬스톤 벽돌 반블록
+tile.runestone_brick_alt_wall.name=룬스톤 벽돌 담장
+
+tile.wildwood_log.name=와일드우드 원목
+tile.wildwood_planks.name=와일드우드 판자
+tile.wildwood_leaves.name=와일드우드 잎
+
+item.petals.name=꽃잎
+item.runic_dust.name=루닉 가루
+item.cooked_pereskia.name=구운 페레스키아
+item.wildewheet_bread.name=와일트위트 빵
+item.fey_leather.name=Fey Leather
+
+tile.magmatic_soil.effect=Cooks some of the drops from plants when harvesting.
+tile.aqueous_soil.effect=Automatically harvests plants when they reach maturity.
+tile.caelic_soil.effect=Increases the rate at which plants grow.
+tile.terran_soil.effect=Increases the yield of plants grown on it.
+
+# JEI
+container.roots.runic_shears.name=Runic Shearing
+container.roots.runic_shears_entity.name=Runic Entity Shearing
+container.roots.runic_carving.name=Runic Carving
+container.roots.ritual_crafting.name=Pyre Crafting Ritual
+container.roots.mortar_and_pestle.name=Mortar and Pestle
+container.roots.ritual.name=Pyre Ritual
+container.roots.fey_crafting.name=Fey Crafting
+container.roots.spell_costs.name=Spell Costs
+container.roots.spell_modifiers.name=Spell Modifiers
+container.roots.bark_carving.name=Bark Carving
+container.roots.terra_moss.name=Moss Scraping
+jei.roots.terra_moss.desc=Scraped from moss cobblestone with a knife. Cobblestone infused with terra spores will grow moss when adjacent to water.
+jei.roots.terra_spores.desc=Dropped from broken tall grass; used on cobblestone adjacent water grows sportes, turning it into moss cobblestone.
+jei.roots.wildroot.desc=Dropped from broken tall grass and the extremely rare leaves of the wildwood tree.
+jei.roots.bark.desc=Obtained by breaking the relevant log with a knife.
+jei.roots.wildwood.desc=Once a sacred tree of druidry, the only remnant of these that remain in the world are their wildroots. From these a skilled druid, with the correct words and ingredients, can invoke the ritual of Wildroot Growth.
+jei.roots.wildwood_sapling.desc=A rare, treasured young of a tree that does not itself bear children. No longer born, almost all of them have been secreted away by the druids of old.
+jei.roots.wildwood_leaves.desc=Unlike the leaves of other trees, the sacred wildwood has no longer the strength to bear saplings. Instead, the kernel of life common to all parts of the wildwood - the wildroot - may be found tucked amongst its leaves and its branches.
+jei.roots.elemental_soil_fire.desc=Created by tossing a piece of Elemental Soil into a pool of lava.
+jei.roots.elemental_soil_water.desc=Created by tossing a piece of Elemental Soil into a pool of water and waiting a few seconds.
+jei.roots.elemental_soil_air.desc=Created by dropping a piece of Elemental Soil onto a surface closer to the sky, and unobscured from it.
+jei.roots.elemental_soil_earth.desc=Created by dropping a piece of Elemental Soil onto a surface covered from the sky and in the depth's of the ground.
+jei.roots.runic_shears.cooldown=Item can be obtained every %d seconds.
+jei.roots.open_book_button_text=Open Book
+# Quiver
+roots.quiver.picked_up_arrow=Retrieved arrows.
+roots.quiver.quiver_full=Your quiver is full.
+roots.quiver.fragile=This grown arrow cannot be picked up.
+roots.quiver.broke=All of the arrows broke.
+
+# Config
+# Categories
+config.roots.category.general=General
+config.roots.category.general.tooltip=General settings related to Roots 3.
+config.roots.category.rituals=Rituals
+config.roots.category.rituals.tooltip=Configuration for enabling/disabling individual rituals, and other ritual-related settings.
+config.roots.category.spells=Spells
+config.roots.category.spells.tooltip=Configuration for enabling/disabling individual spells, and other spell-releated settings.
+config.roots.category.moss=Terra Moss
+config.roots.category.moss.tooltip=Configuration for growing and gather terra moss.
+config.roots.category.elemental_soil=Elemental Soil
+config.roots.category.elemental_soil.tooltip=Configuration settings related to elemental soil conversion.
+config.roots.category.crops=Growing & Harvesting
+config.roots.category.crops.tooltip=Settings relating to growth & harvesting spells
+
+# WAILA/TOP/etc
+roots.hud.grove_stone.valid=유효한 돌
+roots.hud.pyre.recipe=제작: %s
+roots.hud.pyre.ritual=의식: %s
+roots.hud.pyre.progress=진행도: %s분 남음
+
+roots.hud.top.pyre.recipe=제작:
+roots.hud.top.pyre.ritual=의식:
+roots.hud.top.pyre.progress=진행도:
+roots.hud.top.pyre.progress_info=분 남음
+
+# Runic Shears
+roots.runic_shears.cooldown=The fey's equivalent has nothing to gift you at this time.
+
+# Ritual of Transmutation
+roots.ritual.transmutation.deadbush_cocoa=Obtained through the Ritual of Transmutation. Nearby dead bushes will transform into cocoa beans.
+roots.ritual.transmutation.birch_jungle=Obtained through the Ritual of Transmutation. The wood of nearby birch trees will transform into that of jungle trees.
+roots.ritual.transmutation.birch_jungle_leaves=Obtained through the Ritual of Transmutation. The leaves of nearby birch trees will transform into those of a jungle tree.
+roots.ritual.transmutation.pumpkin_melon=Obtained through the Ritual of Transmutation. Pumpkins with water or flowing water below them will transform into melon blocks.
+roots.ritual.transmutation.pumpkin_cactus=Obtained through the Ritual of Transmutation. Pumpkins planted upon sand will turn into cactuses.
+
+# CraftTweaker commands
+roots.commands.dump.desc=§2/ct roots_properties [mode]\n§3Dumps the specified property table(s) to the log.
+roots.commands.dump.usage=Usage: ct roots_properties [mode]\nModes: all | ritual | spell
+
+roots.commands.dump_recipes.desc=§2/ct roots_recipes [category]\n§3Dumps a list of ResourceLocations of registered recipes.
+roots.commands.dump_recipes.usage=Usage: ct roots_recipes [mode]\nModes: all | animal_harvest | bark | fey_crafting | flower_growth | mortar | pacifist | pyre_crafting | runic_shears | transmutaiton

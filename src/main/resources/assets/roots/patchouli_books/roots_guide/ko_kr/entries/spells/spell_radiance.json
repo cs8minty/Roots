@@ -1,0 +1,17 @@
+{
+  "name": "광선",
+  "icon": "roots:spell_dust",
+  "category": "spells",
+  "advancement": "roots:infernal_bulb",
+  "flag": "roots:spell_radiance",
+  "pages": [
+    {
+      "type": "text",
+      "text": "한 줄기 빛이 마주 보고 있는 방향의 모든 목표물을 강타합니다.$(br2)$(info) 이 에너지는 언데드에 특히 효과적입니다."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_radiance"
+    }
+  ]
+}

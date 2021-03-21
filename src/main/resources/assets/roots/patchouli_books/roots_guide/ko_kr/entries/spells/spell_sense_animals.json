@@ -1,0 +1,17 @@
+{
+  "name": "동물 감지",
+  "icon": "roots:spell_dust",
+  "category": "spells",
+  "advancement": "roots:wildewheet",
+  "flag": "roots:spell_sense_animals",
+  "pages": [
+    {
+      "type": "text",
+      "text": "시전자 근처에 있는 동물들이 빛을 내기 시작하여 위치를 정확히 찾아낼 수 있습니다.$(br2)$(info) 빛나는 동물은 모든 고체 물체를 통해 볼 수 있다."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_sense_animals"
+    }
+  ]
+}
